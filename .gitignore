@@ -34,4 +34,3 @@ build/
 
 ### Constants ###
 /src/main/java/nl/casperdaris/filmmanagementsystem/security/SecurityConstants.java
-/src/main/resources/application.properties
